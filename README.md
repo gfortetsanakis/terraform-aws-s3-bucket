@@ -1,4 +1,4 @@
-## Terraform module for creating S3 buckets
+## Terraform module for S3 bucket
 
 This modules creates a new S3 bucket on AWS along with a corresponding IAM policy which provides read and write access to the bucket. This policy can then be attached to IAM users and roles.
 
