@@ -3,5 +3,5 @@ variable "bucket_name" {
 }
 
 variable "bucket_tag" {
-  description= "A short tag used to identify the new bucket."
+  description = "A short tag used to identify the new bucket."
 }
