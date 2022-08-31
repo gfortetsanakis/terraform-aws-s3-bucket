@@ -14,4 +14,4 @@ This modules creates a new S3 bucket on AWS.
 
 | Parameter            | Description                      |
 | -------------------- | -------------------------------- |
-| s3_bucket_arn        | The ARN of the created S3 bucket |
+| s3_bucket_arn        | The name of the created bucket   |
